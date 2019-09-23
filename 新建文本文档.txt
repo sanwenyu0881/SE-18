@@ -1,0 +1,5 @@
+Please see the link below to videos, images and the Accelerometer simulator application:
+https://drive.google.com/open?id=13ShliBnMCeR0e_NHxbs32DguFcp5-5ZO
+ 
+Please see the link below to videos and images of the bootloader application:
+https://drive.google.com/open?id=15c7a8YCFWqzjjytzyOa2VnHcOgGPz2HD
